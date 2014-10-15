@@ -14,7 +14,7 @@
 			}
         	td{
 				border: solid 3px #000; /* Borde de la celda */
-				padding: 10px; /* Espacio entre la imagen y el borde */
+				padding: 5px; /* Espacio entre la imagen y el borde */
 				cursor: pointer; /* Hace que el cursor del ratón sea una mano */
 			}
 			/* Al situar el ratón encima de la celda cambia el color de fondo */
@@ -27,11 +27,10 @@
 			}
 			/* Enlace visitado que cambia el color de fondo y del enlace */
 			td a:visited{
-				background-color: #CCC; /* Color de fondo */
 				color: #000; /* Color del texto */
 			}
 			img{
-				margin-bottom: 10px; /* Margen inferior de la imagen */
+				margin-bottom: 5px; /* Margen inferior de la imagen */
 				border: solid 2px #000; /* Borde de la iamgen */
 			}
 			a{
@@ -49,7 +48,7 @@
 	</head>
     <?php
 		$varFor1=0; //Variable del primer bucle for
-		$varFor2=0; //Variable del segundo bucle for
+		$varFor2; //Variable del segundo bucle for
 		$nombreImg; //Nombre de la imagen
 		$contadorImg=1; //Contador de imágenes mostradas
 		
