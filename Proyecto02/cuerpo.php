@@ -1,6 +1,4 @@
 <?php
-require_once "elemento.php";
-
 class cuerpo extends elemento{
 	
 	function setCuerpo($columnas,$filas){
