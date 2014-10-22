@@ -15,17 +15,24 @@ require_once "elemento.php";
 
 class cabecera extends elemento{
 	
-	function setTituloPag($title){
-		echo $this->setTitulo($title);
+	function __construct($title){
+		$this->setTitulo($title);
 	}
 	
-	function setMenu($menu){
+	function setMenu($index,$menu){
 		$str="<center>
 				<div class='menu'>
 					<ul>";
 					
+					//Mostramos el menú
 					foreach($menu as $indice=>$valor){
-						$str.="<li><a href='".$valor["url"]."' class='enlace'>".$indice."</a><li>";
+						//Según el valor del índice el menú tendra un aspecto diferente
+						if($index==$indice){
+							$str.="<li><a href='".$valor["url"]."' class='selectMenu'>".$indice."</a><li>";
+						}else{
+							$str.="<li><a href='".$valor["url"]."' class='enlace'>".$indice."</a><li>";
+						}
+						
 					}
 					
 					$str.="</ul>

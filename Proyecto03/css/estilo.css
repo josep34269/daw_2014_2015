@@ -8,28 +8,34 @@ table{
 }
 
 .menu{
-	margin: 0 25%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
 }
 
 .menu ul li{
-	list-style: none;
-	float: left;
-	width: 20%;
-	margin: 0;
-	padding: 0;
+	display: inline;
 }
 
 .menu ul li a{
+	padding: 5px 20px;
 	background: #F4F4F4;
-	border: 1px solid #000;
-	border-right: 1px solid #000;
+	border: 2px solid #000;
 	color: #333;
-	display: block;
 	text-decoration: none;
+}
+
+.menu ul li .selectMenu{
+	border: 3px solid #fff;
+	background: #333;
+	text-shadow: 1px 1px #FFF;
+	color: #CCC;
 }
 
 .menu ul li a:hover{
 	background: #333;
+	text-shadow: 1px 1px #FFF;
 	color: #CCC;
 }
 
