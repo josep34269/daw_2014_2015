@@ -8,14 +8,12 @@ table{
 }
 
 .menu{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	text-align: center;
+	list-style-type: none; /* No muestra el menú en formato de lista */
+	text-align: center; /* Alineamos el texto al centro */
 }
 
 .menu ul li{
-	display: inline;
+	display: inline; /* Mostramos todo los elementos del menu en la misma línea */
 }
 
 .menu ul li a{
@@ -26,10 +24,11 @@ table{
 	text-decoration: none;
 }
 
-.menu ul li .selectMenu{
-	border: 3px solid #fff;
+.menu ul li a[class="selectMenu"]{
+	border: 1px solid #FFF;
 	background: #333;
 	text-shadow: 1px 1px #FFF;
+	padding: 7px 25px;
 	color: #CCC;
 }
 
