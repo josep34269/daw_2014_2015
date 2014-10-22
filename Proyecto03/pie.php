@@ -1,6 +1,4 @@
 <?php
-require_once "elemento.php";
-
 class pie extends elemento{
 	
 	function setPie(){
