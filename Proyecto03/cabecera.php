@@ -19,15 +19,17 @@ class cabecera extends elemento{
 		$this->setTitulo($title);
 	}
 	
-	function setMenu($index,$menu){
+	function setMenu($menu){
 		$str="<center>
 				<div class='menu'>
 					<ul>";
 					
+					$pagURL=end(explode("/",$_SERVER['PHP_SELF'])); //Obtenemos la página actual
+					
 					//Mostramos el menú
 					foreach($menu as $indice=>$valor){
-						//Según el valor del índice el menú tendra un aspecto diferente
-						if($index==$indice){
+						//Si el valor del menú coincide con la página actual entramos dentro del IF
+						if($pagURL==$valor["url"]){
 							$str.="<li><a href='".$valor["url"]."' class='selectMenu'>".$indice."</a><li>";
 						}else{
 							$str.="<li><a href='".$valor["url"]."' class='enlace'>".$indice."</a><li>";

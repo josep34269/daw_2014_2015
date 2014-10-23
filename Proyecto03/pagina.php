@@ -7,17 +7,17 @@ class pagina{
 	
 	private $titulo,$cabecera,$menu,$cuerpo,$pie;
 	
-	function __construct($titulo,$indice){
+	function __construct($titulo){
 		$this->cabecera=new cabecera($titulo);
-		$this->setPagMenu($indice);
+		$this->setPagMenu();
 		$this->pie=new pie();
 		$this->pie->setPie();
 	}
 	
 	//Esta función es la utilizada para definir las páginas del menú
-	function setPagMenu($indice){
+	function setPagMenu(){
 		$this->menu=array("INICIO"=>array("url"=>"index.php"),"FOTOS"=>array("url"=>"fotos.php"),"CONTACTO"=>array("url"=>"contacto.php"));
-		$this->cabecera->setMenu($indice,$this->menu);
+		$this->cabecera->setMenu($this->menu);
 	}
 	
 	//Esta función es la utilizada para definir el contenido (cuerpo) de la página
