@@ -1,0 +1,64 @@
+body{
+	font-family: Arial, Helvetica, sans-serif; /* Fuente de la letra */
+	font-size: 25px; /* Tamaño de la fuente */
+}
+
+table{
+	text-align: center; /* Alínea al centro el contenido de la tabla */
+}
+
+.menu{
+	list-style-type: none; /* No muestra el menú en formato de lista */
+	text-align: center; /* Alineamos el texto al centro */
+}
+
+.menu ul li{
+	display: inline; /* Mostramos todo los elementos del menu en la misma línea */
+}
+
+.menu ul li a{
+	padding: 5px 20px;
+	background: #F4F4F4;
+	border: 2px solid #000;
+	color: #333;
+	text-decoration: none;
+}
+
+.menu ul li a[class="selectMenu"]{
+	border: 1px solid #FFF;
+	background: #333;
+	text-shadow: 1px 1px #FFF;
+	padding: 7px 25px;
+	color: #CCC;
+}
+
+.menu ul li a:hover{
+	background: #333;
+	text-shadow: 1px 1px #FFF;
+	color: #CCC;
+}
+
+.backImg{
+	border: solid 3px #000; /* Borde de la celda */
+	padding: 5px; /* Espacio entre la imagen y el borde */
+}
+
+/* Al situar el ratón encima de la celda cambia el color de fondo */
+.backImg:hover{
+	background-color: #CCC; /* Color de fondo */
+}
+
+/* Al situar el ratón encima de la celda cambia el color del enlace */
+.backImg:hover a{
+	color: #000; /* Color del texto */
+}
+
+.imagen{
+	border: solid 2px #000; /* Borde de la iamgen */
+	cursor: pointer; /* Hace que el cursor del ratón sea una mano */
+}
+
+.enlace{
+	color: #00F; /* Color del texto */
+	text-decoration: none; /* Quita el efecto subrayado del enelace */
+}
