@@ -60,7 +60,7 @@ class cabecera extends elemento{
 					$str.="<div>Bienvenido ".$_SESSION["usuario"].". <a href='salir.php'>Salir</a></div>";
 				}
 				
-		$str.="</center>"; //Acaba la alineación al centro
+		$str.="<br /></center>"; //Acaba la alineación al centro
 		
 		$this->setContenido($str); //Pasamos el contenido
 	}
