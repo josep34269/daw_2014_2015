@@ -5,7 +5,7 @@ class pie extends elemento{
 	* Esta función muestra el pie de página
 	*/
 	function setPie(){
-		$str="<hr /><center>&copy; Josep Puertas</center><hr />
+		$str="<hr /><span class='footer'>&copy; Josep Puertas</span></center><hr />
 		</body>
 </html>";
 		$this->setContenido($str);

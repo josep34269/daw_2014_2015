@@ -10,11 +10,12 @@ class pagina{
 	//Declaramos las variables
 	private $conexion,$seguridad,$cabecera,$menu,$cuerpo,$pie;
 	
-	function __construct(){
+	function __construct($titulo){
 		$this->conexion=new bd();
 		$this->conexion->conectar(); //Iniciamos la conexión
 		$this->cabecera=new cabecera();
 		$this->setPagMenu(); //Asginamos el menú
+		$this->cuerpo=new cuerpo($titulo);
 		$this->pie=new pie();
 		$this->pie->setPie(); //Asignamos el pie de página
 	}
@@ -30,16 +31,17 @@ class pagina{
 	/*
 	* Esta función es la utilizada para definir el contenido (cuerpo) de la página
 	*/
-	function setContenido($texto){
-		$this->cuerpo=new cuerpo();
+	function setContent($texto,$esTabla){
 		$this->seguridad=new seguridad();
 		
 		//Si no se ha iniciado sesión no mostramos el contenido
 		if(!$this->seguridad->comprobarUsuario() && end(explode("/",$_SERVER["PHP_SELF"]))!="iniciar.php"){
 			$texto="Debe iniciar sesión para acceder al contenido"; //Asignamos el cuerpo (body) de la web
+			$esTabla="NO"; //Al mostrar el mensaje anterior es texto plano
 		}
 		
-		$this->cuerpo->setCuerpo($texto); //Asignamos el cuerpo (body) de la web
+		$this->cuerpo->setTitle(); //Asignamos el título (body) de la web
+		$this->cuerpo->setCuerpo($texto,$esTabla); //Asignamos el cuerpo (body) de la web
 	}
 	
 	/*

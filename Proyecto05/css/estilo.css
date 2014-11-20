@@ -163,3 +163,8 @@ input:hover{
 	-moz-border-radius-topright: 15px;
 	-webkit-border-top-right-radius: 15px;
 }
+
+.footer{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+}

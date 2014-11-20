@@ -5,5 +5,5 @@
 	session_unset();
 	session_destroy();
 	
-	header("Location: index.php"); //Realizo una redirección
+	header("Location: ".$_SERVER['HTTP_REFERER'].""); //Realizo una redirección
 ?>

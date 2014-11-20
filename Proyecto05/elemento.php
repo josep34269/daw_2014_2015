@@ -1,7 +1,7 @@
 <?php
 class elemento{
 	
-	public $titulo,$contenido;
+	private $titulo,$contenido;
 	
 	/*
 	* Esta función convierte a Sting el contenido a mostrar

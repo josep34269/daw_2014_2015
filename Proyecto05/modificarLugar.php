@@ -2,20 +2,13 @@
 	require "pagina.php";
 	
 	$tituloPag="MODIFICAR LUGAR"; //Indicamos el título de la página
-	
-	//Creamos la tabla
-	$contenido="<table align='center' cellpadding='5'>
-		<tr>
-    		<td colspan='4' class='bor-titulo'><span class='titulo'>$tituloPag</span></td>
-    	</tr>";
+	$pagina=new pagina($tituloPag); //Instanciamos el objeto de página
 	
 	//Comprobamos que se le pasa el identificador
 	if(isset($_GET["id"])){
-		
-		$pagina=new pagina(); //Instanciamos el objeto de página
 		$sentencia=$pagina->funcionesDB("SELECT","TAREA03",array("id_lugar","lugar","poblacion","fecha"),array(),"id_lugar=".$_GET['id'].""); //Obtenemos los datos
 		
-		$contenido.="<form id='modLugar' method='post' name='modLugar' action='modifLugar.php?id=".$_GET['id']."' onsubmit='return modificarLugar();'>";
+		$contenido="<form id='modLugar' method='post' name='modLugar' action='modifLugar.php?id=".$_GET['id']."' onsubmit='return modificarLugar();'>";
 		
 		//Mostramos todo el contenido obtenido de la sentencia
 		$contenido.="<tr>
@@ -47,8 +40,6 @@
 		
 	}
 	
-	$contenido.="</table>"; //Finaliza la creación de la tabla
-	
-	$pagina->setContenido($contenido); //Pasamos el contenido de la página
+	$pagina->setContent($contenido,"SI"); //Pasamos el contenido de la página e indicamos si es una tabla
 	$pagina->getPagina(); //Obtenemos todo el contenido
 ?>
