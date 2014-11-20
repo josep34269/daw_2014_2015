@@ -34,7 +34,6 @@ class cabecera extends elemento{
 						}else{
 							$str.="<li><a href='".$valor["url"]."' class='enlace'>".$indice."</a><li>";
 						}
-						
 					}
 					
 					$str.="</ul>

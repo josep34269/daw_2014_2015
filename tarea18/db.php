@@ -101,7 +101,7 @@ return $str;
 }
 }
 public function setLugar($lugar,$descripcion,$fecha){
-if($resultado = $this->descriptor->query("INSERT INT TAREA03 (nombre,descripcion,fecha) VALUES ('$lugar','$descripcion','$fecha')")){
+if($resultado = $this->descriptor->query("INSERT INTO TAREA03 (nombre,descripcion,fecha) VALUES ('$lugar','$descripcion','$fecha')")){
 if($resultado = $this->descriptor->query("INSERT INTO TAREA03 (nombre,descripcion,fecha) VALUES ('$lugar','$descripcion','$fecha')")){
 echo "OK<br>";
 }else{
