@@ -15,6 +15,7 @@ if($_POST["usuario"]=="Josep" && $_POST["clave"]=="daw01"){
 	$contenido="Usuario o contraseña erróneos"; //Indicamos el contenido de la página
 	
 	$pagina->setContent($contenido,"NO"); //Pasamos el contenido de la página e indicamos si es una tabla
-	$pagina->getPagina(); //Obtenemos todo el contenido		
+	$pagina->getPagina(); //Obtenemos todo el contenido
+	
 }
 ?>
