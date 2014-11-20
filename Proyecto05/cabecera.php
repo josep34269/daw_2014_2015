@@ -51,7 +51,7 @@ class cabecera extends elemento{
 					$str.="<div>
 						<form id='iniSes' method='post' name='iniSes' action='iniciar.php'>
 							<input id='usuario' type='text' name='usuario' class='input' />
-							<input id='clave' type='text' name='clave' class='input' />
+							<input id='clave' type='password' name='clave' class='input' />
 							<input id='iniciar' type='submit' name='iniciar' value='Iniciar sesión' />
 						</form>
 					</div>";
