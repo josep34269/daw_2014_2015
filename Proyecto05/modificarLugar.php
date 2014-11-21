@@ -6,7 +6,7 @@
 	
 	//Comprobamos que se le pasa el identificador
 	if(isset($_GET["id"])){
-		$sentencia=$pagina->funcionesDB("SELECT","TAREA03",array("id_lugar","lugar","poblacion","fecha"),array(),"id_lugar=".$_GET['id'].""); //Obtenemos los datos
+		$sentencia=$pagina->funcionesDB("SELECT","TAREA03",array("lugar","poblacion","fecha"),array(),"id_lugar=".$_GET['id'].""); //Obtenemos los datos
 		
 		$contenido="<form id='modLugar' method='post' name='modLugar' action='modifLugar.php?id=".$_GET['id']."' onsubmit='return modificarLugar();'>";
 		
@@ -17,15 +17,15 @@
 		</tr>";
 		$contenido.="<tr>
 			<td colspan='2' width='50%' class='panel1'><label for='lugar'>Lugar: </label></td>
-			<td colspan='2' align='center' width='50%' class='panel1'><input id='lugar' type='text' name='lugar' class='input' value='".$sentencia[0][1]."' /></td>
+			<td colspan='2' align='center' width='50%' class='panel1'><input id='lugar' type='text' name='lugar' class='input' value='".$sentencia[0][0]."' /></td>
 		</tr>";
 		$contenido.="<tr>
 			<td colspan='2' width='50%' class='panel1'><label for='poblacion'>Población: </label></td>
-			<td colspan='2' align='center' width='50%' class='panel1'><input id='poblacion' type='text' name='poblacion' class='input' value='".$sentencia[0][2]."' /></td>
+			<td colspan='2' align='center' width='50%' class='panel1'><input id='poblacion' type='text' name='poblacion' class='input' value='".$sentencia[0][1]."' /></td>
 		</tr>";
 		$contenido.="<tr>
 			<td colspan='2' width='50%' class='panel1'><label for='fecha'>Fecha: </label></td>
-			<td colspan='2' align='center' width='50%' class='panel1'><input id='fecha' type='text' name='fecha' class='input' value='".$sentencia[0][3]."' /></td>
+			<td colspan='2' align='center' width='50%' class='panel1'><input id='fecha' type='text' name='fecha' class='input' value='".$sentencia[0][2]."' /></td>
 		</tr>";
 		
 		$contenido.="<tr>
@@ -33,6 +33,8 @@
        		<td width='33%' colspan='2' class='bor-boton3'><input id='reset' type='reset' name='reset' class='input' value='Restablecer' /></td>
        		<td width='33%' class='bor-boton1'><input id='cancelar' type='button' name='cancelar' class='input' value='Cancelar' onclick='location.href=\"lugares.php\";' /></td>
 		</tr>";
+		
+		$contenido.="</form>"; //Cerramos el formulario
 		
 	}else{
 		
