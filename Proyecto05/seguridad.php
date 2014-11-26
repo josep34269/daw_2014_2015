@@ -9,7 +9,7 @@ class seguridad{
 	
 	function comprobarUsuario(){
 		//Compruebo si existe un usuario con sesión iniciada
-		if(!isset($_SESSION["usuario"]) || $_SESSION["usuario"]!="Josep"){
+		if(!isset($_SESSION["usuario"])){
     		$resultado=false;
 		}else{
 			$resultado=true;
