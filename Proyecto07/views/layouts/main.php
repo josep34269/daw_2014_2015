@@ -45,7 +45,7 @@ AppAsset::register($this);
 						['label' => '', 'url' => ''],
                     Yii::$app->user->isGuest ?
                         ['label' => 'Iniciar sesión', 'url' => ['/site/login']]  :
-                        ['label' => 'Cerrar sesión (' . Yii::$app->user->identity->username . ')',
+                        ['label' => 'Cerrar sesión (' . Yii::$app->request->cookies['usuario'] . ')',
                             'url' => ['/site/logout'],
                             'linkOptions' => ['data-method' => 'post']],
 						

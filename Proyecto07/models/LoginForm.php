@@ -52,7 +52,7 @@ class LoginForm extends Model
     private function validatePassword($db)
     {
 		if (!$this->hasErrors()) {
-			$posts = $db->createCommand("SELECT COUNT(*) AS Total FROM usuarios WHERE usuario='".$this->username."' AND password='".md5($this->password)."';")->queryOne();
+			$posts = $db->createCommand("SELECT COUNT(*) AS Total,usuario FROM usuarios WHERE usuario='".$this->username."' AND password='".md5($this->password)."';")->queryOne();
 			return $posts;
 		}
     }
@@ -73,6 +73,12 @@ class LoginForm extends Model
 			$this->addError('password', 'Contraseña incorrecta');
 		}else{
         	if ($this->validate()) {
+				$cookie = new \yii\web\Cookie([
+					'name' => 'usuario',
+					'value' => $this->username,
+					'expire' => $this->rememberMe ? time() + 3600*24*30 : time() + 0,
+				]);
+\yii::$app->response->cookies->add($cookie);
             	return Yii::$app->user->login($this->getUser(), $this->rememberMe ? 3600*24*30 : 0);
         	} else {
             	return false;
