@@ -52,7 +52,7 @@ class LoginForm extends Model
     private function validatePassword($db)
     {
 		if (!$this->hasErrors()) {
-			$posts = $db->createCommand("SELECT COUNT(*) AS Total,usuario FROM usuarios WHERE usuario='".$this->username."' AND password='".md5($this->password)."';")->queryOne();
+			$posts = $db->createCommand("SELECT COUNT(*) AS Total FROM usuarios WHERE usuario='".$this->username."' AND password='".md5($this->password)."';")->queryOne();
 			return $posts;
 		}
     }
