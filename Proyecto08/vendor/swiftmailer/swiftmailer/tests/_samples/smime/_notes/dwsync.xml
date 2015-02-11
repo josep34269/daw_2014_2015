@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CA.srl" server="192.168.1.12//var/www/html/yii/basic/" local="130632295937868847" remote="130631420400000000" Dst="1" />
+<file name="ca.crt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295937953858" remote="130631420400000000" Dst="1" />
+<file name="ca.key" server="192.168.1.12//var/www/html/yii/basic/" local="130632295937973861" remote="130631420400000000" Dst="1" />
+<file name="create-cert.sh" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938018866" remote="130631420400000000" Dst="1" />
+<file name="encrypt.crt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938043870" remote="130631420400000000" Dst="1" />
+<file name="encrypt.key" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938083875" remote="130631420400000000" Dst="1" />
+<file name="encrypt2.crt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938103877" remote="130631420400000000" Dst="1" />
+<file name="encrypt2.key" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938138882" remote="130631420400000000" Dst="1" />
+<file name="sign.crt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938163885" remote="130631420400000000" Dst="1" />
+<file name="sign.key" server="192.168.1.12//var/www/html/yii/basic/" local="130632295938213891" remote="130631420400000000" Dst="1" />
+<file name="ca.crt" server="192.168.1.12//var/www/html/" local="130665147216755809" remote="130665143400000000" Dst="1" />
+<file name="ca.key" server="192.168.1.12//var/www/html/" local="130665147216810816" remote="130665143400000000" Dst="1" />
+<file name="CA.srl" server="192.168.1.12//var/www/html/" local="130665147216685800" remote="130665143400000000" Dst="1" />
+<file name="create-cert.sh" server="192.168.1.12//var/www/html/" local="130665147216870823" remote="130665143400000000" Dst="1" />
+<file name="encrypt.crt" server="192.168.1.12//var/www/html/" local="130665147216920830" remote="130665143400000000" Dst="1" />
+<file name="encrypt.key" server="192.168.1.12//var/www/html/" local="130665147216995839" remote="130665143400000000" Dst="1" />
+<file name="encrypt2.crt" server="192.168.1.12//var/www/html/" local="130665147217035844" remote="130665143400000000" Dst="1" />
+<file name="encrypt2.key" server="192.168.1.12//var/www/html/" local="130665147217105853" remote="130665143400000000" Dst="1" />
+<file name="sign.crt" server="192.168.1.12//var/www/html/" local="130665147217165861" remote="130665143400000000" Dst="1" />
+<file name="sign.key" server="192.168.1.12//var/www/html/" local="130665147217230869" remote="130665143400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpEventSupportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295951545584" remote="130631420400000000" Dst="1" />
+<file name="AbstractSmtpTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295951655598" remote="130631420400000000" Dst="1" />
+<file name="EsmtpTransportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295952920759" remote="130631420400000000" Dst="1" />
+<file name="FailoverTransportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295952955763" remote="130631420400000000" Dst="1" />
+<file name="LoadBalancedTransportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295952980766" remote="130631420400000000" Dst="1" />
+<file name="MailTransportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295953020771" remote="130631420400000000" Dst="1" />
+<file name="SendmailTransportTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295953050775" remote="130631420400000000" Dst="1" />
+<file name="StreamBufferTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295953095781" remote="130631420400000000" Dst="1" />
+<file name="AbstractSmtpEventSupportTest.php" server="192.168.1.12//var/www/html/" local="130665147239108647" remote="130665143400000000" Dst="1" />
+<file name="AbstractSmtpTest.php" server="192.168.1.12//var/www/html/" local="130665147239203659" remote="130665143400000000" Dst="1" />
+<file name="EsmtpTransportTest.php" server="192.168.1.12//var/www/html/" local="130665147240523827" remote="130665143400000000" Dst="1" />
+<file name="FailoverTransportTest.php" server="192.168.1.12//var/www/html/" local="130665147240583834" remote="130665143400000000" Dst="1" />
+<file name="LoadBalancedTransportTest.php" server="192.168.1.12//var/www/html/" local="130665147240633841" remote="130665143400000000" Dst="1" />
+<file name="MailTransportTest.php" server="192.168.1.12//var/www/html/" local="130665147240693848" remote="130665143400000000" Dst="1" />
+<file name="SendmailTransportTest.php" server="192.168.1.12//var/www/html/" local="130665147240743855" remote="130665143400000000" Dst="1" />
+<file name="StreamBufferTest.php" server="192.168.1.12//var/www/html/" local="130665147240828866" remote="130665143400000000" Dst="1" />
+</dwsync>

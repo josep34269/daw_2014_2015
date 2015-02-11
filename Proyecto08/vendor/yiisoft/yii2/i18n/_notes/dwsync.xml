@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DbMessageSource.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969677887" remote="130631420400000000" Dst="1" />
+<file name="Formatter.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969717892" remote="130631420400000000" Dst="1" />
+<file name="GettextFile.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969717892" remote="130631420400000000" Dst="1" />
+<file name="GettextMessageSource.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969727893" remote="130631420400000000" Dst="1" />
+<file name="GettextPoFile.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969762897" remote="130631420400000000" Dst="1" />
+<file name="GettextMoFile.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969772899" remote="130631420400000000" Dst="1" />
+<file name="I18N.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969772899" remote="130631420400000000" Dst="1" />
+<file name="MessageFormatter.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969797902" remote="130631420400000000" Dst="1" />
+<file name="MessageSource.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969812904" remote="130631420400000000" Dst="1" />
+<file name="MissingTranslationEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969832906" remote="130631420400000000" Dst="1" />
+<file name="PhpMessageSource.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295969867911" remote="130631420400000000" Dst="1" />
+<file name="DbMessageSource.php" server="192.168.1.12//var/www/html/" local="130665147276798433" remote="130665143400000000" Dst="1" />
+<file name="Formatter.php" server="192.168.1.12//var/www/html/" local="130665147276943451" remote="130665143400000000" Dst="1" />
+<file name="GettextFile.php" server="192.168.1.12//var/www/html/" local="130665147276988457" remote="130665143400000000" Dst="1" />
+<file name="GettextMessageSource.php" server="192.168.1.12//var/www/html/" local="130665147277053465" remote="130665143400000000" Dst="1" />
+<file name="GettextMoFile.php" server="192.168.1.12//var/www/html/" local="130665147277113473" remote="130665143400000000" Dst="1" />
+<file name="GettextPoFile.php" server="192.168.1.12//var/www/html/" local="130665147277183482" remote="130665143400000000" Dst="1" />
+<file name="I18N.php" server="192.168.1.12//var/www/html/" local="130665147277258491" remote="130665143400000000" Dst="1" />
+<file name="MessageFormatter.php" server="192.168.1.12//var/www/html/" local="130665147277403510" remote="130665143400000000" Dst="1" />
+<file name="MessageSource.php" server="192.168.1.12//var/www/html/" local="130665147277423512" remote="130665143400000000" Dst="1" />
+<file name="MissingTranslationEvent.php" server="192.168.1.12//var/www/html/" local="130665147277478519" remote="130665143400000000" Dst="1" />
+<file name="PhpMessageSource.php" server="192.168.1.12//var/www/html/" local="130665147277533526" remote="130665143400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912210589" remote="130631420400000000" Dst="1" />
+<file name="CommandListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912305601" remote="130631420400000000" Dst="1" />
+<file name="Event.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912335605" remote="130631420400000000" Dst="1" />
+<file name="EventDispatcher.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912365609" remote="130631420400000000" Dst="1" />
+<file name="EventListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912405614" remote="130631420400000000" Dst="1" />
+<file name="EventObject.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912425616" remote="130631420400000000" Dst="1" />
+<file name="ResponseEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912455620" remote="130631420400000000" Dst="1" />
+<file name="ResponseListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912495625" remote="130631420400000000" Dst="1" />
+<file name="SendEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912520628" remote="130631420400000000" Dst="1" />
+<file name="SendListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912575635" remote="130631420400000000" Dst="1" />
+<file name="SimpleEventDispatcher.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912580636" remote="130631420400000000" Dst="1" />
+<file name="TransportChangeEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912610640" remote="130631420400000000" Dst="1" />
+<file name="TransportChangeListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912645644" remote="130631420400000000" Dst="1" />
+<file name="TransportExceptionEvent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912670648" remote="130631420400000000" Dst="1" />
+<file name="TransportExceptionListener.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295912710653" remote="130631420400000000" Dst="1" />
+<file name="CommandEvent.php" server="192.168.1.12//var/www/html/" local="130665147181186292" remote="130665143400000000" Dst="1" />
+<file name="CommandListener.php" server="192.168.1.12//var/www/html/" local="130665147181276303" remote="130665143400000000" Dst="1" />
+<file name="Event.php" server="192.168.1.12//var/www/html/" local="130665147181336311" remote="130665143400000000" Dst="1" />
+<file name="EventDispatcher.php" server="192.168.1.12//var/www/html/" local="130665147181386317" remote="130665143400000000" Dst="1" />
+<file name="EventListener.php" server="192.168.1.12//var/www/html/" local="130665147181451326" remote="130665143400000000" Dst="1" />
+<file name="EventObject.php" server="192.168.1.12//var/www/html/" local="130665147181501332" remote="130665143400000000" Dst="1" />
+<file name="ResponseEvent.php" server="192.168.1.12//var/www/html/" local="130665147181546338" remote="130665143400000000" Dst="1" />
+<file name="ResponseListener.php" server="192.168.1.12//var/www/html/" local="130665147181606345" remote="130665143400000000" Dst="1" />
+<file name="SendEvent.php" server="192.168.1.12//var/www/html/" local="130665147181666353" remote="130665143400000000" Dst="1" />
+<file name="SendListener.php" server="192.168.1.12//var/www/html/" local="130665147181746363" remote="130665143400000000" Dst="1" />
+<file name="SimpleEventDispatcher.php" server="192.168.1.12//var/www/html/" local="130665147181816372" remote="130665143400000000" Dst="1" />
+<file name="TransportChangeEvent.php" server="192.168.1.12//var/www/html/" local="130665147181871379" remote="130665143400000000" Dst="1" />
+<file name="TransportChangeListener.php" server="192.168.1.12//var/www/html/" local="130665147181946388" remote="130665143400000000" Dst="1" />
+<file name="TransportExceptionEvent.php" server="192.168.1.12//var/www/html/" local="130665147181996395" remote="130665143400000000" Dst="1" />
+<file name="TransportExceptionListener.php" server="192.168.1.12//var/www/html/" local="130665147182046401" remote="130665143400000000" Dst="1" />
+</dwsync>

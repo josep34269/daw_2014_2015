@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DbTarget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970012929" remote="130631420400000000" Dst="1" />
+<file name="Dispatcher.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970122943" remote="130631420400000000" Dst="1" />
+<file name="EmailTarget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970152947" remote="130631420400000000" Dst="1" />
+<file name="FileTarget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970177950" remote="130631420400000000" Dst="1" />
+<file name="Logger.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970222956" remote="130631420400000000" Dst="1" />
+<file name="SyslogTarget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970242958" remote="130631420400000000" Dst="1" />
+<file name="Target.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295970282963" remote="130631420400000000" Dst="1" />
+<file name="DbTarget.php" server="192.168.1.12//var/www/html/" local="130665147278393636" remote="130665143400000000" Dst="1" />
+<file name="Dispatcher.php" server="192.168.1.12//var/www/html/" local="130665147278533653" remote="130665143400000000" Dst="1" />
+<file name="EmailTarget.php" server="192.168.1.12//var/www/html/" local="130665147278578659" remote="130665143400000000" Dst="1" />
+<file name="FileTarget.php" server="192.168.1.12//var/www/html/" local="130665147278643667" remote="130665143400000000" Dst="1" />
+<file name="Logger.php" server="192.168.1.12//var/www/html/" local="130665147278688673" remote="130665143400000000" Dst="1" />
+<file name="SyslogTarget.php" server="192.168.1.12//var/www/html/" local="130665147278748681" remote="130665143400000000" Dst="1" />
+<file name="Target.php" server="192.168.1.12//var/www/html/" local="130665147278808688" remote="130665143400000000" Dst="1" />
+</dwsync>

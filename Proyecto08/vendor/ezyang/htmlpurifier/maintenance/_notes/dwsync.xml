@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="PH5P.patch" server="192.168.1.12//var/www/html/yii/basic/" local="130632295840806522" remote="130631420400000000" Dst="1" />
+<file name="add-vimline.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295840941539" remote="130631420400000000" Dst="1" />
+<file name="PH5P.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295840966542" remote="130631420400000000" Dst="1" />
+<file name="common.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295840971543" remote="130631420400000000" Dst="1" />
+<file name="compile-doxygen.sh" server="192.168.1.12//var/www/html/yii/basic/" local="130632295840981544" remote="130631420400000000" Dst="1" />
+<file name="config-scanner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841016549" remote="130631420400000000" Dst="1" />
+<file name="flush-definition-cache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841041552" remote="130631420400000000" Dst="1" />
+<file name="flush.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841071556" remote="130631420400000000" Dst="1" />
+<file name="generate-entity-file.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841096559" remote="130631420400000000" Dst="1" />
+<file name="generate-includes.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841121562" remote="130631420400000000" Dst="1" />
+<file name="generate-ph5p-patch.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841136564" remote="130631420400000000" Dst="1" />
+<file name="generate-schema-cache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841171568" remote="130631420400000000" Dst="1" />
+<file name="generate-standalone.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841206573" remote="130631420400000000" Dst="1" />
+<file name="merge-library.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841231576" remote="130631420400000000" Dst="1" />
+<file name="old-extract-schema.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841246578" remote="130631420400000000" Dst="1" />
+<file name="old-remove-require-once.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841476607" remote="130631420400000000" Dst="1" />
+<file name="old-remove-schema-def.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841611624" remote="130631420400000000" Dst="1" />
+<file name="regenerate-docs.sh" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841636627" remote="130631420400000000" Dst="1" />
+<file name="remove-trailing-whitespace.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841771645" remote="130631420400000000" Dst="1" />
+<file name="rename-config.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841811650" remote="130631420400000000" Dst="1" />
+<file name="update-config.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841831652" remote="130631420400000000" Dst="1" />
+<file name="update-freshmeat.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295841871657" remote="130631420400000000" Dst="1" />
+<file name="add-vimline.php" server="192.168.1.12//var/www/html/" local="130665147055015270" remote="130665143400000000" Dst="1" />
+<file name="common.php" server="192.168.1.12//var/www/html/" local="130665147055065277" remote="130665143400000000" Dst="1" />
+<file name="compile-doxygen.sh" server="192.168.1.12//var/www/html/" local="130665147055080278" remote="130665143400000000" Dst="1" />
+<file name="config-scanner.php" server="192.168.1.12//var/www/html/" local="130665147055115283" remote="130665143400000000" Dst="1" />
+<file name="flush-definition-cache.php" server="192.168.1.12//var/www/html/" local="130665147055115283" remote="130665143400000000" Dst="1" />
+<file name="flush.php" server="192.168.1.12//var/www/html/" local="130665147055140286" remote="130665143400000000" Dst="1" />
+<file name="generate-entity-file.php" server="192.168.1.12//var/www/html/" local="130665147055175290" remote="130665143400000000" Dst="1" />
+<file name="generate-includes.php" server="192.168.1.12//var/www/html/" local="130665147055180291" remote="130665143400000000" Dst="1" />
+<file name="generate-ph5p-patch.php" server="192.168.1.12//var/www/html/" local="130665147055195293" remote="130665143400000000" Dst="1" />
+<file name="generate-schema-cache.php" server="192.168.1.12//var/www/html/" local="130665147055235298" remote="130665143400000000" Dst="1" />
+<file name="generate-standalone.php" server="192.168.1.12//var/www/html/" local="130665147055240299" remote="130665143400000000" Dst="1" />
+<file name="merge-library.php" server="192.168.1.12//var/www/html/" local="130665147055250300" remote="130665143400000000" Dst="1" />
+<file name="old-extract-schema.php" server="192.168.1.12//var/www/html/" local="130665147055280304" remote="130665143400000000" Dst="1" />
+<file name="old-remove-require-once.php" server="192.168.1.12//var/www/html/" local="130665147055290305" remote="130665143400000000" Dst="1" />
+<file name="old-remove-schema-def.php" server="192.168.1.12//var/www/html/" local="130665147055305307" remote="130665143400000000" Dst="1" />
+<file name="PH5P.patch" server="192.168.1.12//var/www/html/" local="130665147053665099" remote="130665143400000000" Dst="1" />
+<file name="regenerate-docs.sh" server="192.168.1.12//var/www/html/" local="130665147055340311" remote="130665143400000000" Dst="1" />
+<file name="remove-trailing-whitespace.php" server="192.168.1.12//var/www/html/" local="130665147055345312" remote="130665143400000000" Dst="1" />
+<file name="rename-config.php" server="192.168.1.12//var/www/html/" local="130665147055360314" remote="130665143400000000" Dst="1" />
+<file name="update-config.php" server="192.168.1.12//var/www/html/" local="130665147055390318" remote="130665143400000000" Dst="1" />
+<file name="PH5P.php" server="192.168.1.12//var/www/html/" local="130665147054995268" remote="130665143400000000" Dst="1" />
+<file name="update-freshmeat.php" server="192.168.1.12//var/www/html/" local="130665147055395318" remote="130665143400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BooleanValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295980299235" remote="130631420400000000" Dst="1" />
+<file name="CompareValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295983699667" remote="130631420400000000" Dst="1" />
+<file name="EmailValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984029709" remote="130631420400000000" Dst="1" />
+<file name="DateValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984054712" remote="130631420400000000" Dst="1" />
+<file name="DefaultValueValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984059713" remote="130631420400000000" Dst="1" />
+<file name="ExistValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984134722" remote="130631420400000000" Dst="1" />
+<file name="FileValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984139723" remote="130631420400000000" Dst="1" />
+<file name="FilterValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984169727" remote="130631420400000000" Dst="1" />
+<file name="ImageValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984179728" remote="130631420400000000" Dst="1" />
+<file name="InlineValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984184729" remote="130631420400000000" Dst="1" />
+<file name="NumberValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984239736" remote="130631420400000000" Dst="1" />
+<file name="PunycodeAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984264739" remote="130631420400000000" Dst="1" />
+<file name="RangeValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984274740" remote="130631420400000000" Dst="1" />
+<file name="RequiredValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984304744" remote="130631420400000000" Dst="1" />
+<file name="SafeValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295984314745" remote="130631420400000000" Dst="1" />
+<file name="RegularExpressionValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986154979" remote="130631420400000000" Dst="1" />
+<file name="StringValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986189983" remote="130631420400000000" Dst="1" />
+<file name="UniqueValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986199985" remote="130631420400000000" Dst="1" />
+<file name="UrlValidator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986209986" remote="130631420400000000" Dst="1" />
+<file name="ValidationAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986249991" remote="130631420400000000" Dst="1" />
+<file name="Validator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295986284995" remote="130631420400000000" Dst="1" />
+<file name="BooleanValidator.php" server="192.168.1.12//var/www/html/" local="130665147296615950" remote="130665143400000000" Dst="1" />
+<file name="CompareValidator.php" server="192.168.1.12//var/www/html/" local="130665147296720963" remote="130665143400000000" Dst="1" />
+<file name="DateValidator.php" server="192.168.1.12//var/www/html/" local="130665147296785971" remote="130665143400000000" Dst="1" />
+<file name="DefaultValueValidator.php" server="192.168.1.12//var/www/html/" local="130665147296835978" remote="130665143400000000" Dst="1" />
+<file name="EmailValidator.php" server="192.168.1.12//var/www/html/" local="130665147296895985" remote="130665143400000000" Dst="1" />
+<file name="ExistValidator.php" server="192.168.1.12//var/www/html/" local="130665147296955993" remote="130665143400000000" Dst="1" />
+<file name="FileValidator.php" server="192.168.1.12//var/www/html/" local="130665147297011000" remote="130665143400000000" Dst="1" />
+<file name="FilterValidator.php" server="192.168.1.12//var/www/html/" local="130665147297061006" remote="130665143400000000" Dst="1" />
+<file name="ImageValidator.php" server="192.168.1.12//var/www/html/" local="130665147297126014" remote="130665143400000000" Dst="1" />
+<file name="InlineValidator.php" server="192.168.1.12//var/www/html/" local="130665147297196023" remote="130665143400000000" Dst="1" />
+<file name="NumberValidator.php" server="192.168.1.12//var/www/html/" local="130665147297256031" remote="130665143400000000" Dst="1" />
+<file name="PunycodeAsset.php" server="192.168.1.12//var/www/html/" local="130665147297331040" remote="130665143400000000" Dst="1" />
+<file name="RangeValidator.php" server="192.168.1.12//var/www/html/" local="130665147297401049" remote="130665143400000000" Dst="1" />
+<file name="RegularExpressionValidator.php" server="192.168.1.12//var/www/html/" local="130665147297441054" remote="130665143400000000" Dst="1" />
+<file name="RequiredValidator.php" server="192.168.1.12//var/www/html/" local="130665147297491061" remote="130665143400000000" Dst="1" />
+<file name="SafeValidator.php" server="192.168.1.12//var/www/html/" local="130665147298476186" remote="130665143400000000" Dst="1" />
+<file name="StringValidator.php" server="192.168.1.12//var/www/html/" local="130665147298601202" remote="130665143400000000" Dst="1" />
+<file name="UniqueValidator.php" server="192.168.1.12//var/www/html/" local="130665147298671211" remote="130665143400000000" Dst="1" />
+<file name="UrlValidator.php" server="192.168.1.12//var/www/html/" local="130665147298731218" remote="130665143400000000" Dst="1" />
+<file name="ValidationAsset.php" server="192.168.1.12//var/www/html/" local="130665147298791226" remote="130665143400000000" Dst="1" />
+<file name="Validator.php" server="192.168.1.12//var/www/html/" local="130665147298846233" remote="130665143400000000" Dst="1" />
+</dwsync>

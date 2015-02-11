@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aliasesAliasCollision.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295851887929" remote="130631420400000000" Dst="1" />
+<file name="aliasesDirectiveCollision.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295851967939" remote="130631420400000000" Dst="1" />
+<file name="allowedIsString.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295851997943" remote="130631420400000000" Dst="1" />
+<file name="allowedNotEmpty.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852022946" remote="130631420400000000" Dst="1" />
+<file name="defaultIsAllowed.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852057951" remote="130631420400000000" Dst="1" />
+<file name="defaultNullWithAllowed.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852092955" remote="130631420400000000" Dst="1" />
+<file name="defaultType.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852102956" remote="130631420400000000" Dst="1" />
+<file name="descriptionNotEmpty.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852142962" remote="130631420400000000" Dst="1" />
+<file name="ignoreNamespace.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852157963" remote="130631420400000000" Dst="1" />
+<file name="typeDefined.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852182967" remote="130631420400000000" Dst="1" />
+<file name="typeExists.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852207970" remote="130631420400000000" Dst="1" />
+<file name="typeWithAllowedIsStringType.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852242974" remote="130631420400000000" Dst="1" />
+<file name="typeWithValueAliasesIsStringType.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852302982" remote="130631420400000000" Dst="1" />
+<file name="unique.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852317984" remote="130631420400000000" Dst="1" />
+<file name="valueAliasesAliasIsString.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852362989" remote="130631420400000000" Dst="1" />
+<file name="valueAliasesAliasNotAllowed.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852508008" remote="130631420400000000" Dst="1" />
+<file name="valueAliasesNotAliasSelf.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852683030" remote="130631420400000000" Dst="1" />
+<file name="valueAliasesRealAllowed.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852703033" remote="130631420400000000" Dst="1" />
+<file name="valueAliasesRealIsString.vtest" server="192.168.1.12//var/www/html/yii/basic/" local="130632295852728036" remote="130631420400000000" Dst="1" />
+<file name="aliasesAliasCollision.vtest" server="192.168.1.12//var/www/html/" local="130665147076202961" remote="130665143400000000" Dst="1" />
+<file name="aliasesDirectiveCollision.vtest" server="192.168.1.12//var/www/html/" local="130665147076282971" remote="130665143400000000" Dst="1" />
+<file name="allowedIsString.vtest" server="192.168.1.12//var/www/html/" local="130665147076322976" remote="130665143400000000" Dst="1" />
+<file name="allowedNotEmpty.vtest" server="192.168.1.12//var/www/html/" local="130665147076372982" remote="130665143400000000" Dst="1" />
+<file name="defaultIsAllowed.vtest" server="192.168.1.12//var/www/html/" local="130665147076422989" remote="130665143400000000" Dst="1" />
+<file name="defaultNullWithAllowed.vtest" server="192.168.1.12//var/www/html/" local="130665147076467994" remote="130665143400000000" Dst="1" />
+<file name="defaultType.vtest" server="192.168.1.12//var/www/html/" local="130665147076533003" remote="130665143400000000" Dst="1" />
+<file name="descriptionNotEmpty.vtest" server="192.168.1.12//var/www/html/" local="130665147076608012" remote="130665143400000000" Dst="1" />
+<file name="ignoreNamespace.vtest" server="192.168.1.12//var/www/html/" local="130665147076658018" remote="130665143400000000" Dst="1" />
+<file name="typeDefined.vtest" server="192.168.1.12//var/www/html/" local="130665147076698024" remote="130665143400000000" Dst="1" />
+<file name="typeExists.vtest" server="192.168.1.12//var/www/html/" local="130665147076763032" remote="130665143400000000" Dst="1" />
+<file name="typeWithAllowedIsStringType.vtest" server="192.168.1.12//var/www/html/" local="130665147076823039" remote="130665143400000000" Dst="1" />
+<file name="typeWithValueAliasesIsStringType.vtest" server="192.168.1.12//var/www/html/" local="130665147076873046" remote="130665143400000000" Dst="1" />
+<file name="unique.vtest" server="192.168.1.12//var/www/html/" local="130665147076923052" remote="130665143400000000" Dst="1" />
+<file name="valueAliasesAliasIsString.vtest" server="192.168.1.12//var/www/html/" local="130665147076983060" remote="130665143400000000" Dst="1" />
+<file name="valueAliasesAliasNotAllowed.vtest" server="192.168.1.12//var/www/html/" local="130665147078123205" remote="130665143400000000" Dst="1" />
+<file name="valueAliasesNotAliasSelf.vtest" server="192.168.1.12//var/www/html/" local="130665147078473249" remote="130665143400000000" Dst="1" />
+<file name="valueAliasesRealAllowed.vtest" server="192.168.1.12//var/www/html/" local="130665147078518255" remote="130665143400000000" Dst="1" />
+<file name="valueAliasesRealIsString.vtest" server="192.168.1.12//var/www/html/" local="130665147078593264" remote="130665143400000000" Dst="1" />
+</dwsync>

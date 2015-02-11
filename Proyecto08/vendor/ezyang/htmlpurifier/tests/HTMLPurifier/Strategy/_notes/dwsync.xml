@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CompositeTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295862114228" remote="130631420400000000" Dst="1" />
+<file name="CoreTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295862174235" remote="130631420400000000" Dst="1" />
+<file name="ErrorsHarness.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295862194238" remote="130631420400000000" Dst="1" />
+<file name="FixNestingTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295862464272" remote="130631420400000000" Dst="1" />
+<file name="FixNesting_ErrorsTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295862519279" remote="130631420400000000" Dst="1" />
+<file name="MakeWellFormedTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863089352" remote="130631420400000000" Dst="1" />
+<file name="MakeWellFormed_ErrorsTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863134357" remote="130631420400000000" Dst="1" />
+<file name="MakeWellFormed_InjectorTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863149359" remote="130631420400000000" Dst="1" />
+<file name="RemoveForeignElementsTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863199365" remote="130631420400000000" Dst="1" />
+<file name="RemoveForeignElements_ErrorsTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863234370" remote="130631420400000000" Dst="1" />
+<file name="RemoveForeignElements_TidyTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863259373" remote="130631420400000000" Dst="1" />
+<file name="ValidateAttributesTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863299378" remote="130631420400000000" Dst="1" />
+<file name="ValidateAttributes_IDTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863339383" remote="130631420400000000" Dst="1" />
+<file name="ValidateAttributes_TidyTest.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295863369387" remote="130631420400000000" Dst="1" />
+<file name="CompositeTest.php" server="192.168.1.12//var/www/html/" local="130665147110202278" remote="130665143400000000" Dst="1" />
+<file name="CoreTest.php" server="192.168.1.12//var/www/html/" local="130665147110277288" remote="130665143400000000" Dst="1" />
+<file name="ErrorsHarness.php" server="192.168.1.12//var/www/html/" local="130665147110442309" remote="130665143400000000" Dst="1" />
+<file name="FixNestingTest.php" server="192.168.1.12//var/www/html/" local="130665147110467312" remote="130665143400000000" Dst="1" />
+<file name="FixNesting_ErrorsTest.php" server="192.168.1.12//var/www/html/" local="130665147110582326" remote="130665143400000000" Dst="1" />
+<file name="MakeWellFormedTest.php" server="192.168.1.12//var/www/html/" local="130665147111377427" remote="130665143400000000" Dst="1" />
+<file name="MakeWellFormed_ErrorsTest.php" server="192.168.1.12//var/www/html/" local="130665147111432434" remote="130665143400000000" Dst="1" />
+<file name="MakeWellFormed_InjectorTest.php" server="192.168.1.12//var/www/html/" local="130665147111482441" remote="130665143400000000" Dst="1" />
+<file name="RemoveForeignElementsTest.php" server="192.168.1.12//var/www/html/" local="130665147111517445" remote="130665143400000000" Dst="1" />
+<file name="RemoveForeignElements_ErrorsTest.php" server="192.168.1.12//var/www/html/" local="130665147111577453" remote="130665143400000000" Dst="1" />
+<file name="RemoveForeignElements_TidyTest.php" server="192.168.1.12//var/www/html/" local="130665147111627459" remote="130665143400000000" Dst="1" />
+<file name="ValidateAttributesTest.php" server="192.168.1.12//var/www/html/" local="130665147111692467" remote="130665143400000000" Dst="1" />
+<file name="ValidateAttributes_IDTest.php" server="192.168.1.12//var/www/html/" local="130665147111747474" remote="130665143400000000" Dst="1" />
+<file name="ValidateAttributes_TidyTest.php" server="192.168.1.12//var/www/html/" local="130665147111807482" remote="130665143400000000" Dst="1" />
+</dwsync>

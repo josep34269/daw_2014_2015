@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930292885" remote="130631420400000000" Dst="1" />
+<file name="EsmtpHandler.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931132992" remote="130631420400000000" Dst="1" />
+<file name="EsmtpTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931157995" remote="130631420400000000" Dst="1" />
+<file name="FailoverTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931187999" remote="130631420400000000" Dst="1" />
+<file name="IoBuffer.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931228004" remote="130631420400000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931248007" remote="130631420400000000" Dst="1" />
+<file name="MailInvoker.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931283011" remote="130631420400000000" Dst="1" />
+<file name="MailTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931318015" remote="130631420400000000" Dst="1" />
+<file name="NullTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931388024" remote="130631420400000000" Dst="1" />
+<file name="SendmailTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931428029" remote="130631420400000000" Dst="1" />
+<file name="SimpleMailInvoker.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931453033" remote="130631420400000000" Dst="1" />
+<file name="SmtpAgent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931483036" remote="130631420400000000" Dst="1" />
+<file name="SpoolTransport.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931513040" remote="130631420400000000" Dst="1" />
+<file name="StreamBuffer.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295931548045" remote="130631420400000000" Dst="1" />
+<file name="AbstractSmtpTransport.php" server="192.168.1.12//var/www/html/" local="130665147203669147" remote="130665143400000000" Dst="1" />
+<file name="EsmtpHandler.php" server="192.168.1.12//var/www/html/" local="130665147204534257" remote="130665143400000000" Dst="1" />
+<file name="EsmtpTransport.php" server="192.168.1.12//var/www/html/" local="130665147204584263" remote="130665143400000000" Dst="1" />
+<file name="FailoverTransport.php" server="192.168.1.12//var/www/html/" local="130665147204659273" remote="130665143400000000" Dst="1" />
+<file name="IoBuffer.php" server="192.168.1.12//var/www/html/" local="130665147204749284" remote="130665143400000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="192.168.1.12//var/www/html/" local="130665147204794290" remote="130665143400000000" Dst="1" />
+<file name="MailInvoker.php" server="192.168.1.12//var/www/html/" local="130665147204864299" remote="130665143400000000" Dst="1" />
+<file name="MailTransport.php" server="192.168.1.12//var/www/html/" local="130665147204934307" remote="130665143400000000" Dst="1" />
+<file name="NullTransport.php" server="192.168.1.12//var/www/html/" local="130665147204994315" remote="130665143400000000" Dst="1" />
+<file name="SendmailTransport.php" server="192.168.1.12//var/www/html/" local="130665147205049322" remote="130665143400000000" Dst="1" />
+<file name="SimpleMailInvoker.php" server="192.168.1.12//var/www/html/" local="130665147205109330" remote="130665143400000000" Dst="1" />
+<file name="SmtpAgent.php" server="192.168.1.12//var/www/html/" local="130665147205174338" remote="130665143400000000" Dst="1" />
+<file name="SpoolTransport.php" server="192.168.1.12//var/www/html/" local="130665147205229345" remote="130665143400000000" Dst="1" />
+<file name="StreamBuffer.php" server="192.168.1.12//var/www/html/" local="130665147205284352" remote="130665143400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActiveField.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993450905" remote="130631420400000000" Dst="1" />
+<file name="ActiveForm.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993760945" remote="130631420400000000" Dst="1" />
+<file name="Alert.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993770946" remote="130631420400000000" Dst="1" />
+<file name="BootstrapAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993780947" remote="130631420400000000" Dst="1" />
+<file name="BootstrapPluginAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993795949" remote="130631420400000000" Dst="1" />
+<file name="BootstrapThemeAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994155995" remote="130631420400000000" Dst="1" />
+<file name="Button.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994170997" remote="130631420400000000" Dst="1" />
+<file name="ButtonDropdown.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994175997" remote="130631420400000000" Dst="1" />
+<file name="Carousel.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994271009" remote="130631420400000000" Dst="1" />
+<file name="ButtonGroup.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994291012" remote="130631420400000000" Dst="1" />
+<file name="CHANGELOG.md" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994301013" remote="130631420400000000" Dst="1" />
+<file name="Collapse.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994341018" remote="130631420400000000" Dst="1" />
+<file name="Dropdown.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994346019" remote="130631420400000000" Dst="1" />
+<file name="Modal.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994351020" remote="130631420400000000" Dst="1" />
+<file name="NavBar.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994391025" remote="130631420400000000" Dst="1" />
+<file name="Nav.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994401026" remote="130631420400000000" Dst="1" />
+<file name="Progress.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994416028" remote="130631420400000000" Dst="1" />
+<file name="README.md" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994426029" remote="130631420400000000" Dst="1" />
+<file name="Tabs.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994441031" remote="130631420400000000" Dst="1" />
+<file name="Widget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994456033" remote="130631420400000000" Dst="1" />
+<file name="composer.json" server="192.168.1.12//var/www/html/yii/basic/" local="130632295994466034" remote="130631420400000000" Dst="1" />
+<file name="ActiveField.php" server="192.168.1.12//var/www/html/" local="130665147311622855" remote="130665143400000000" Dst="1" />
+<file name="ActiveForm.php" server="192.168.1.12//var/www/html/" local="130665147311712867" remote="130665143400000000" Dst="1" />
+<file name="Alert.php" server="192.168.1.12//var/www/html/" local="130665147311762873" remote="130665143400000000" Dst="1" />
+<file name="BootstrapAsset.php" server="192.168.1.12//var/www/html/" local="130665147311822881" remote="130665143400000000" Dst="1" />
+<file name="BootstrapPluginAsset.php" server="192.168.1.12//var/www/html/" local="130665147311892889" remote="130665143400000000" Dst="1" />
+<file name="BootstrapThemeAsset.php" server="192.168.1.12//var/www/html/" local="130665147311952897" remote="130665143400000000" Dst="1" />
+<file name="Button.php" server="192.168.1.12//var/www/html/" local="130665147312012905" remote="130665143400000000" Dst="1" />
+<file name="ButtonDropdown.php" server="192.168.1.12//var/www/html/" local="130665147312062911" remote="130665143400000000" Dst="1" />
+<file name="ButtonGroup.php" server="192.168.1.12//var/www/html/" local="130665147312127919" remote="130665143400000000" Dst="1" />
+<file name="Carousel.php" server="192.168.1.12//var/www/html/" local="130665147312277938" remote="130665143400000000" Dst="1" />
+<file name="CHANGELOG.md" server="192.168.1.12//var/www/html/" local="130665147312212930" remote="130665143400000000" Dst="1" />
+<file name="Collapse.php" server="192.168.1.12//var/www/html/" local="130665147312342947" remote="130665143400000000" Dst="1" />
+<file name="composer.json" server="192.168.1.12//var/www/html/" local="130665147313853138" remote="130665143400000000" Dst="1" />
+<file name="Dropdown.php" server="192.168.1.12//var/www/html/" local="130665147312407955" remote="130665143400000000" Dst="1" />
+<file name="Modal.php" server="192.168.1.12//var/www/html/" local="130665147312462962" remote="130665143400000000" Dst="1" />
+<file name="Nav.php" server="192.168.1.12//var/www/html/" local="130665147312522969" remote="130665143400000000" Dst="1" />
+<file name="NavBar.php" server="192.168.1.12//var/www/html/" local="130665147313473090" remote="130665143400000000" Dst="1" />
+<file name="Progress.php" server="192.168.1.12//var/www/html/" local="130665147313613108" remote="130665143400000000" Dst="1" />
+<file name="README.md" server="192.168.1.12//var/www/html/" local="130665147313668115" remote="130665143400000000" Dst="1" />
+<file name="Tabs.php" server="192.168.1.12//var/www/html/" local="130665147313738124" remote="130665143400000000" Dst="1" />
+<file name="Widget.php" server="192.168.1.12//var/www/html/" local="130665147313793131" remote="130665143400000000" Dst="1" />
+</dwsync>

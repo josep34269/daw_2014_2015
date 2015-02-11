@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Background.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295816813475" remote="130631420400000000" Dst="1" />
+<file name="BdoDir.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295816923489" remote="130631420400000000" Dst="1" />
+<file name="BgColor.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295816938491" remote="130631420400000000" Dst="1" />
+<file name="BoolToCSS.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295816973496" remote="130631420400000000" Dst="1" />
+<file name="Border.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295816998499" remote="130631420400000000" Dst="1" />
+<file name="EnumToCSS.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817028503" remote="130631420400000000" Dst="1" />
+<file name="ImgRequired.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817048505" remote="130631420400000000" Dst="1" />
+<file name="ImgSpace.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817083510" remote="130631420400000000" Dst="1" />
+<file name="Input.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817113513" remote="130631420400000000" Dst="1" />
+<file name="Lang.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817133516" remote="130631420400000000" Dst="1" />
+<file name="Length.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817173521" remote="130631420400000000" Dst="1" />
+<file name="Name.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817193523" remote="130631420400000000" Dst="1" />
+<file name="NameSync.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817218527" remote="130631420400000000" Dst="1" />
+<file name="Nofollow.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817258532" remote="130631420400000000" Dst="1" />
+<file name="SafeEmbed.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817273534" remote="130631420400000000" Dst="1" />
+<file name="SafeObject.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817473559" remote="130631420400000000" Dst="1" />
+<file name="SafeParam.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817598575" remote="130631420400000000" Dst="1" />
+<file name="ScriptRequired.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817628579" remote="130631420400000000" Dst="1" />
+<file name="TargetBlank.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817658583" remote="130631420400000000" Dst="1" />
+<file name="Textarea.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295817688586" remote="130631420400000000" Dst="1" />
+<file name="Background.php" server="192.168.1.12//var/www/html/" local="130665147012224836" remote="130665143400000000" Dst="1" />
+<file name="BdoDir.php" server="192.168.1.12//var/www/html/" local="130665147012359854" remote="130665143400000000" Dst="1" />
+<file name="BgColor.php" server="192.168.1.12//var/www/html/" local="130665147012414861" remote="130665143400000000" Dst="1" />
+<file name="BoolToCSS.php" server="192.168.1.12//var/www/html/" local="130665147012484869" remote="130665143400000000" Dst="1" />
+<file name="Border.php" server="192.168.1.12//var/www/html/" local="130665147012534876" remote="130665143400000000" Dst="1" />
+<file name="EnumToCSS.php" server="192.168.1.12//var/www/html/" local="130665147012584882" remote="130665143400000000" Dst="1" />
+<file name="ImgRequired.php" server="192.168.1.12//var/www/html/" local="130665147012644890" remote="130665143400000000" Dst="1" />
+<file name="ImgSpace.php" server="192.168.1.12//var/www/html/" local="130665147012684895" remote="130665143400000000" Dst="1" />
+<file name="Input.php" server="192.168.1.12//var/www/html/" local="130665147012744903" remote="130665143400000000" Dst="1" />
+<file name="Lang.php" server="192.168.1.12//var/www/html/" local="130665147012814911" remote="130665143400000000" Dst="1" />
+<file name="Length.php" server="192.168.1.12//var/www/html/" local="130665147012879920" remote="130665143400000000" Dst="1" />
+<file name="Name.php" server="192.168.1.12//var/www/html/" local="130665147012909923" remote="130665143400000000" Dst="1" />
+<file name="NameSync.php" server="192.168.1.12//var/www/html/" local="130665147012949929" remote="130665143400000000" Dst="1" />
+<file name="Nofollow.php" server="192.168.1.12//var/www/html/" local="130665147012989934" remote="130665143400000000" Dst="1" />
+<file name="SafeEmbed.php" server="192.168.1.12//var/www/html/" local="130665147013034939" remote="130665143400000000" Dst="1" />
+<file name="SafeObject.php" server="192.168.1.12//var/www/html/" local="130665147013229964" remote="130665143400000000" Dst="1" />
+<file name="SafeParam.php" server="192.168.1.12//var/www/html/" local="130665147013374983" remote="130665143400000000" Dst="1" />
+<file name="ScriptRequired.php" server="192.168.1.12//var/www/html/" local="130665147013404986" remote="130665143400000000" Dst="1" />
+<file name="TargetBlank.php" server="192.168.1.12//var/www/html/" local="130665147013459993" remote="130665143400000000" Dst="1" />
+<file name="Textarea.php" server="192.168.1.12//var/www/html/" local="130665147013479996" remote="130665143400000000" Dst="1" />
+</dwsync>

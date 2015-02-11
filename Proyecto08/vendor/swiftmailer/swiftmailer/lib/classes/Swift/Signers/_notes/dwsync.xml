@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295921356751" remote="130631420400000000" Dst="1" />
+<file name="DKIMSigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295921826810" remote="130631420400000000" Dst="1" />
+<file name="DomainKeySigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295923842066" remote="130631420400000000" Dst="1" />
+<file name="HeaderSigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295923922076" remote="130631420400000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295923962081" remote="130631420400000000" Dst="1" />
+<file name="SMimeSigner.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295925062221" remote="130631420400000000" Dst="1" />
+<file name="BodySigner.php" server="192.168.1.12//var/www/html/" local="130665147201423862" remote="130665143400000000" Dst="1" />
+<file name="DKIMSigner.php" server="192.168.1.12//var/www/html/" local="130665147201583882" remote="130665143400000000" Dst="1" />
+<file name="DomainKeySigner.php" server="192.168.1.12//var/www/html/" local="130665147201613886" remote="130665143400000000" Dst="1" />
+<file name="HeaderSigner.php" server="192.168.1.12//var/www/html/" local="130665147201673893" remote="130665143400000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="192.168.1.12//var/www/html/" local="130665147201748903" remote="130665143400000000" Dst="1" />
+<file name="SMimeSigner.php" server="192.168.1.12//var/www/html/" local="130665147201818912" remote="130665143400000000" Dst="1" />
+</dwsync>

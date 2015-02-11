@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Barcode.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870185253" remote="130631420400000000" Dst="1" />
+<file name="Address.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870190253" remote="130631420400000000" Dst="1" />
+<file name="Base.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870235259" remote="130631420400000000" Dst="1" />
+<file name="Color.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870280265" remote="130631420400000000" Dst="1" />
+<file name="Company.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870315269" remote="130631420400000000" Dst="1" />
+<file name="DateTime.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870365275" remote="130631420400000000" Dst="1" />
+<file name="File.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870435284" remote="130631420400000000" Dst="1" />
+<file name="Image.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870450286" remote="130631420400000000" Dst="1" />
+<file name="Internet.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870460288" remote="130631420400000000" Dst="1" />
+<file name="Lorem.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870500293" remote="130631420400000000" Dst="1" />
+<file name="Miscellaneous.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870540298" remote="130631420400000000" Dst="1" />
+<file name="Payment.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870555300" remote="130631420400000000" Dst="1" />
+<file name="Person.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870590304" remote="130631420400000000" Dst="1" />
+<file name="PhoneNumber.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870625308" remote="130631420400000000" Dst="1" />
+<file name="Text.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870650312" remote="130631420400000000" Dst="1" />
+<file name="UserAgent.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295870930347" remote="130631420400000000" Dst="1" />
+<file name="Uuid.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295871105369" remote="130631420400000000" Dst="1" />
+<file name="Address.php" server="192.168.1.12//var/www/html/" local="130665147123193928" remote="130665143400000000" Dst="1" />
+<file name="Barcode.php" server="192.168.1.12//var/www/html/" local="130665147123278939" remote="130665143400000000" Dst="1" />
+<file name="Base.php" server="192.168.1.12//var/www/html/" local="130665147123328945" remote="130665143400000000" Dst="1" />
+<file name="Color.php" server="192.168.1.12//var/www/html/" local="130665147123383952" remote="130665143400000000" Dst="1" />
+<file name="Company.php" server="192.168.1.12//var/www/html/" local="130665147123423957" remote="130665143400000000" Dst="1" />
+<file name="DateTime.php" server="192.168.1.12//var/www/html/" local="130665147123478964" remote="130665143400000000" Dst="1" />
+<file name="File.php" server="192.168.1.12//var/www/html/" local="130665147124609107" remote="130665143400000000" Dst="1" />
+<file name="Image.php" server="192.168.1.12//var/www/html/" local="130665147124654113" remote="130665143400000000" Dst="1" />
+<file name="Internet.php" server="192.168.1.12//var/www/html/" local="130665147124714121" remote="130665143400000000" Dst="1" />
+<file name="Lorem.php" server="192.168.1.12//var/www/html/" local="130665147124804132" remote="130665143400000000" Dst="1" />
+<file name="Miscellaneous.php" server="192.168.1.12//var/www/html/" local="130665147124849138" remote="130665143400000000" Dst="1" />
+<file name="Payment.php" server="192.168.1.12//var/www/html/" local="130665147124914146" remote="130665143400000000" Dst="1" />
+<file name="Person.php" server="192.168.1.12//var/www/html/" local="130665147124999157" remote="130665143400000000" Dst="1" />
+<file name="PhoneNumber.php" server="192.168.1.12//var/www/html/" local="130665147125039162" remote="130665143400000000" Dst="1" />
+<file name="Text.php" server="192.168.1.12//var/www/html/" local="130665147125109171" remote="130665143400000000" Dst="1" />
+<file name="UserAgent.php" server="192.168.1.12//var/www/html/" local="130665147126079294" remote="130665143400000000" Dst="1" />
+<file name="Uuid.php" server="192.168.1.12//var/www/html/" local="130665147126264318" remote="130665143400000000" Dst="1" />
+</dwsync>

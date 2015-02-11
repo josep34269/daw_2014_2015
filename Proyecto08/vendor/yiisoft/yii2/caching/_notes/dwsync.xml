@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957036281" remote="130631420400000000" Dst="1" />
+<file name="ArrayCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957101290" remote="130631420400000000" Dst="1" />
+<file name="Cache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957126293" remote="130631420400000000" Dst="1" />
+<file name="ChainedDependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957166298" remote="130631420400000000" Dst="1" />
+<file name="DbCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957191301" remote="130631420400000000" Dst="1" />
+<file name="DbDependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957221305" remote="130631420400000000" Dst="1" />
+<file name="Dependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957266310" remote="130631420400000000" Dst="1" />
+<file name="DummyCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957291314" remote="130631420400000000" Dst="1" />
+<file name="ExpressionDependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957321317" remote="130631420400000000" Dst="1" />
+<file name="FileCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957371324" remote="130631420400000000" Dst="1" />
+<file name="FileDependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957391326" remote="130631420400000000" Dst="1" />
+<file name="MemCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957421330" remote="130631420400000000" Dst="1" />
+<file name="MemCacheServer.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957451334" remote="130631420400000000" Dst="1" />
+<file name="TagDependency.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957481338" remote="130631420400000000" Dst="1" />
+<file name="WinCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957521343" remote="130631420400000000" Dst="1" />
+<file name="XCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957721368" remote="130631420400000000" Dst="1" />
+<file name="ZendDataCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295957846384" remote="130631420400000000" Dst="1" />
+<file name="ApcCache.php" server="192.168.1.12//var/www/html/" local="130665147254090550" remote="130665143400000000" Dst="1" />
+<file name="ArrayCache.php" server="192.168.1.12//var/www/html/" local="130665147254190562" remote="130665143400000000" Dst="1" />
+<file name="Cache.php" server="192.168.1.12//var/www/html/" local="130665147254240569" remote="130665143400000000" Dst="1" />
+<file name="ChainedDependency.php" server="192.168.1.12//var/www/html/" local="130665147254300576" remote="130665143400000000" Dst="1" />
+<file name="DbCache.php" server="192.168.1.12//var/www/html/" local="130665147254370585" remote="130665143400000000" Dst="1" />
+<file name="DbDependency.php" server="192.168.1.12//var/www/html/" local="130665147254420591" remote="130665143400000000" Dst="1" />
+<file name="Dependency.php" server="192.168.1.12//var/www/html/" local="130665147254465597" remote="130665143400000000" Dst="1" />
+<file name="DummyCache.php" server="192.168.1.12//var/www/html/" local="130665147254520604" remote="130665143400000000" Dst="1" />
+<file name="ExpressionDependency.php" server="192.168.1.12//var/www/html/" local="130665147254575611" remote="130665143400000000" Dst="1" />
+<file name="FileCache.php" server="192.168.1.12//var/www/html/" local="130665147254640619" remote="130665143400000000" Dst="1" />
+<file name="FileDependency.php" server="192.168.1.12//var/www/html/" local="130665147254715629" remote="130665143400000000" Dst="1" />
+<file name="MemCache.php" server="192.168.1.12//var/www/html/" local="130665147254770636" remote="130665143400000000" Dst="1" />
+<file name="MemCacheServer.php" server="192.168.1.12//var/www/html/" local="130665147254840645" remote="130665143400000000" Dst="1" />
+<file name="TagDependency.php" server="192.168.1.12//var/www/html/" local="130665147254895652" remote="130665143400000000" Dst="1" />
+<file name="WinCache.php" server="192.168.1.12//var/www/html/" local="130665147254955659" remote="130665143400000000" Dst="1" />
+<file name="XCache.php" server="192.168.1.12//var/www/html/" local="130665147256010793" remote="130665143400000000" Dst="1" />
+<file name="ZendDataCache.php" server="192.168.1.12//var/www/html/" local="130665147256140810" remote="130665143400000000" Dst="1" />
+</dwsync>

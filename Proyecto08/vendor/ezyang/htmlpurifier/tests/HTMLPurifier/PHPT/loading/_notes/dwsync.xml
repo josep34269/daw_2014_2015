@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_autoload.inc" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860178982" remote="130631420400000000" Dst="1" />
+<file name="_no-autoload.inc" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860238990" remote="130631420400000000" Dst="1" />
+<file name="auto-includes.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860679045" remote="130631420400000000" Dst="1" />
+<file name="auto-with-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860699048" remote="130631420400000000" Dst="1" />
+<file name="auto-with-spl-autoload-default.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860729052" remote="130631420400000000" Dst="1" />
+<file name="auto-with-spl-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860759056" remote="130631420400000000" Dst="1" />
+<file name="auto-without-spl-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860789059" remote="130631420400000000" Dst="1" />
+<file name="auto-without-spl-with-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860834065" remote="130631420400000000" Dst="1" />
+<file name="auto.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860964082" remote="130631420400000000" Dst="1" />
+<file name="path-includes-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860974083" remote="130631420400000000" Dst="1" />
+<file name="error-auto-with-spl-nonstatic-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295860984084" remote="130631420400000000" Dst="1" />
+<file name="path-includes.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295861019089" remote="130631420400000000" Dst="1" />
+<file name="safe-includes.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295861024089" remote="130631420400000000" Dst="1" />
+<file name="standalone-autoload.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295861034091" remote="130631420400000000" Dst="1" />
+<file name="standalone-with-prefix.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295861049092" remote="130631420400000000" Dst="1" />
+<file name="standalone.phpt" server="192.168.1.12//var/www/html/yii/basic/" local="130632295861209113" remote="130631420400000000" Dst="1" />
+<file name="auto-includes.phpt" server="192.168.1.12//var/www/html/" local="130665147101291146" remote="130665143400000000" Dst="1" />
+<file name="auto-with-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101341153" remote="130665143400000000" Dst="1" />
+<file name="auto-with-spl-autoload-default.phpt" server="192.168.1.12//var/www/html/" local="130665147101391159" remote="130665143400000000" Dst="1" />
+<file name="auto-with-spl-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101441166" remote="130665143400000000" Dst="1" />
+<file name="auto-without-spl-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101511174" remote="130665143400000000" Dst="1" />
+<file name="auto-without-spl-with-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101561181" remote="130665143400000000" Dst="1" />
+<file name="auto.phpt" server="192.168.1.12//var/www/html/" local="130665147101616188" remote="130665143400000000" Dst="1" />
+<file name="error-auto-with-spl-nonstatic-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101661193" remote="130665143400000000" Dst="1" />
+<file name="path-includes-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101721201" remote="130665143400000000" Dst="1" />
+<file name="path-includes.phpt" server="192.168.1.12//var/www/html/" local="130665147101776208" remote="130665143400000000" Dst="1" />
+<file name="safe-includes.phpt" server="192.168.1.12//var/www/html/" local="130665147101826214" remote="130665143400000000" Dst="1" />
+<file name="standalone-autoload.phpt" server="192.168.1.12//var/www/html/" local="130665147101886222" remote="130665143400000000" Dst="1" />
+<file name="standalone-with-prefix.phpt" server="192.168.1.12//var/www/html/" local="130665147101936228" remote="130665143400000000" Dst="1" />
+<file name="standalone.phpt" server="192.168.1.12//var/www/html/" local="130665147103121379" remote="130665143400000000" Dst="1" />
+<file name="_autoload.inc" server="192.168.1.12//var/www/html/" local="130665147101156129" remote="130665143400000000" Dst="1" />
+<file name="_no-autoload.inc" server="192.168.1.12//var/www/html/" local="130665147101216137" remote="130665143400000000" Dst="1" />
+</dwsync>

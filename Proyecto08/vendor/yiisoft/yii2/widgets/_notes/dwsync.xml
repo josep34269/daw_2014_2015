@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActiveField.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992475782" remote="130631420400000000" Dst="1" />
+<file name="ActiveForm.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992630801" remote="130631420400000000" Dst="1" />
+<file name="ActiveFormAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992665806" remote="130631420400000000" Dst="1" />
+<file name="BaseListView.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992680808" remote="130631420400000000" Dst="1" />
+<file name="Block.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992715812" remote="130631420400000000" Dst="1" />
+<file name="Breadcrumbs.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992720813" remote="130631420400000000" Dst="1" />
+<file name="ContentDecorator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992740815" remote="130631420400000000" Dst="1" />
+<file name="DetailView.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295992760818" remote="130631420400000000" Dst="1" />
+<file name="FragmentCache.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993045854" remote="130631420400000000" Dst="1" />
+<file name="LinkPager.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993055855" remote="130631420400000000" Dst="1" />
+<file name="InputWidget.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993075858" remote="130631420400000000" Dst="1" />
+<file name="LinkSorter.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993085859" remote="130631420400000000" Dst="1" />
+<file name="ListView.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993110862" remote="130631420400000000" Dst="1" />
+<file name="MaskedInput.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993120863" remote="130631420400000000" Dst="1" />
+<file name="MaskedInputAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993160869" remote="130631420400000000" Dst="1" />
+<file name="Menu.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993165869" remote="130631420400000000" Dst="1" />
+<file name="Pjax.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993175870" remote="130631420400000000" Dst="1" />
+<file name="PjaxAsset.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993210875" remote="130631420400000000" Dst="1" />
+<file name="Spaceless.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295993215875" remote="130631420400000000" Dst="1" />
+<file name="ActiveField.php" server="192.168.1.12//var/www/html/" local="130665147308642477" remote="130665143400000000" Dst="1" />
+<file name="ActiveForm.php" server="192.168.1.12//var/www/html/" local="130665147308742489" remote="130665143400000000" Dst="1" />
+<file name="ActiveFormAsset.php" server="192.168.1.12//var/www/html/" local="130665147308802497" remote="130665143400000000" Dst="1" />
+<file name="BaseListView.php" server="192.168.1.12//var/www/html/" local="130665147308887508" remote="130665143400000000" Dst="1" />
+<file name="Block.php" server="192.168.1.12//var/www/html/" local="130665147308962517" remote="130665143400000000" Dst="1" />
+<file name="Breadcrumbs.php" server="192.168.1.12//var/www/html/" local="130665147309002522" remote="130665143400000000" Dst="1" />
+<file name="ContentDecorator.php" server="192.168.1.12//var/www/html/" local="130665147309062530" remote="130665143400000000" Dst="1" />
+<file name="DetailView.php" server="192.168.1.12//var/www/html/" local="130665147309142540" remote="130665143400000000" Dst="1" />
+<file name="FragmentCache.php" server="192.168.1.12//var/www/html/" local="130665147309202548" remote="130665143400000000" Dst="1" />
+<file name="InputWidget.php" server="192.168.1.12//var/www/html/" local="130665147309277557" remote="130665143400000000" Dst="1" />
+<file name="LinkPager.php" server="192.168.1.12//var/www/html/" local="130665147309322563" remote="130665143400000000" Dst="1" />
+<file name="LinkSorter.php" server="192.168.1.12//var/www/html/" local="130665147309392572" remote="130665143400000000" Dst="1" />
+<file name="ListView.php" server="192.168.1.12//var/www/html/" local="130665147309472582" remote="130665143400000000" Dst="1" />
+<file name="MaskedInput.php" server="192.168.1.12//var/www/html/" local="130665147309512587" remote="130665143400000000" Dst="1" />
+<file name="MaskedInputAsset.php" server="192.168.1.12//var/www/html/" local="130665147309592597" remote="130665143400000000" Dst="1" />
+<file name="Menu.php" server="192.168.1.12//var/www/html/" local="130665147310712740" remote="130665143400000000" Dst="1" />
+<file name="Pjax.php" server="192.168.1.12//var/www/html/" local="130665147310882761" remote="130665143400000000" Dst="1" />
+<file name="PjaxAsset.php" server="192.168.1.12//var/www/html/" local="130665147310932768" remote="130665143400000000" Dst="1" />
+<file name="Spaceless.php" server="192.168.1.12//var/www/html/" local="130665147310982774" remote="130665143400000000" Dst="1" />
+</dwsync>

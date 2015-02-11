@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CramMd5Authenticator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930802950" remote="130631420400000000" Dst="1" />
+<file name="LoginAuthenticator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930832954" remote="130631420400000000" Dst="1" />
+<file name="PlainAuthenticator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930837954" remote="130631420400000000" Dst="1" />
+<file name="NTLMAuthenticator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930847956" remote="130631420400000000" Dst="1" />
+<file name="XOAuth2Authenticator.php" server="192.168.1.12//var/www/html/yii/basic/" local="130632295930887961" remote="130631420400000000" Dst="1" />
+<file name="CramMd5Authenticator.php" server="192.168.1.12//var/www/html/" local="130665147203969185" remote="130665143400000000" Dst="1" />
+<file name="LoginAuthenticator.php" server="192.168.1.12//var/www/html/" local="130665147204039194" remote="130665143400000000" Dst="1" />
+<file name="NTLMAuthenticator.php" server="192.168.1.12//var/www/html/" local="130665147204134206" remote="130665143400000000" Dst="1" />
+<file name="PlainAuthenticator.php" server="192.168.1.12//var/www/html/" local="130665147204179212" remote="130665143400000000" Dst="1" />
+<file name="XOAuth2Authenticator.php" server="192.168.1.12//var/www/html/" local="130665147204244220" remote="130665143400000000" Dst="1" />
+</dwsync>
