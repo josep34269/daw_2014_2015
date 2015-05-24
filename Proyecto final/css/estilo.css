@@ -1,0 +1,226 @@
+@font-face {
+	font-family: 'Kelly Slab';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Kelly Slab'), local('KellySlab-Regular'), 
+	url(../fuentes/fuente.woff2) format('woff2'), 
+	url(../fuentes/fuente.woff) format('woff');
+}
+
+body{
+	background-image: url('../img/fondo-pag.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	top: 0;
+	left: 0;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+table {
+	margin-top: 185px;
+	border: double 10px #666;
+	border-radius: 25px; /* Borde redondeado */
+	background-color: #FFF;
+	opacity: 0.85;
+}
+
+.titulo-pag {
+	font: normal bold 39px 'Kelly Slab', fantasy;
+	color: #FFFFFF;
+}
+
+.fuente-titulo h1 {
+	margin: 0;
+	line-height: normal;
+}
+
+.fuente-titulo a {
+	color: #FFFFFF;
+}
+
+.contenedor-menu {
+	position: relative;
+	overflow: hidden;
+	background: #000 url(../img/fondo-boton.png) center repeat-x;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+	margin-bottom: 10px;
+}
+
+.menu-boton {
+	height: 100%;
+	position: relative;
+	box-sizing: border-box;
+	display: inline-block;
+	cursor: pointer;
+	border-left: 1px solid rgba(51, 51, 51, 1);
+	background: #000;
+	transition: background-color 0.4s ease 0s;
+}
+
+.menu-boton-forma {
+	background: transparent url(../img/fondo-boton.png) center repeat-x;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.menu-label {
+	display: inline-block;
+	font: normal 14px 'Kelly Slab', fantasy;
+	color: #CACACA;
+	margin-bottom: 10px;
+}
+
+.enlace {
+	color: #00F; /* Color del texto */
+	text-decoration: none; /* Quita el efecto subrayado del enelace */
+}
+
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.bor-titulo {
+	border-bottom: double 10px #666;
+	padding: 5px;
+	text-align: center;
+}
+
+.atributo {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.bor-atributo {
+	border: dashed 5px #999;
+	padding: 5px;
+	text-align: center;
+}
+
+.panel1 {
+	border: dotted 3px #CCC;
+	padding: 10px;
+}
+
+.panel2 {
+	border: dotted 3px #CCC;
+	padding: 3px 5px;
+	text-align: center;
+}
+
+.panel3 {
+	border: dotted 3px #CCC;
+	padding: 10px 5px;
+	font-size: 16px;
+	text-align: center;
+}
+
+.input {
+	font-family: Arial, Helvetica, sans-serif;
+	border: 5px double #CCC;
+	border-radius: 5px;
+	background-color: #FFC;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #000;
+	width: 200px;
+}
+
+.input:hover {
+	border: 5px double #999;
+	background-color: #000;
+	color: #FFF;
+}
+
+.panel1 label {
+	text-align: justify;
+}
+
+.panel1 .input {
+	width: 95%;
+}
+
+.button {
+	font-family: Arial, Helvetica, sans-serif;
+	border: 5px double #000;
+	border-radius: 15px;
+	background-color: #FFF;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #000;
+}
+
+.button:hover {
+	border: 5px solid #000;
+	background-color: #666;
+	color: #FFF;
+}
+
+.numPaginaSelect {
+	border: solid 2px #666666;
+	background-color: #CCC;
+	padding: 5px;
+	margin: 0 5px;
+}
+
+.numPagina {
+	border: solid 2px #666666;
+	background-color: #FFF;
+	padding: 5px;
+	margin: 0 5px;
+}
+
+.numPagina:hover {
+	background-color: #09F;
+}
+
+.bor-boton1 {
+	border-top: double 10px #666;
+	border-left: double 10px #666;
+	-moz-border-radius-topleft: 15px;
+	-webkit-border-top-left-radius: 15px;
+	text-align: center;
+}
+
+.bor-boton2 {
+	border-top: double 10px #666;
+	border-right: double 10px #666;
+	-moz-border-radius-topright: 15px;
+	-webkit-border-top-right-radius: 15px;
+	text-align: center;
+}
+
+.bor-boton3 {
+	border-top: double 10px #666;
+	border-right: double 10px #666;
+	border-left: double 10px #666;
+	-moz-border-radius-topleft: 15px;
+	-webkit-border-top-left-radius: 15px;
+	-moz-border-radius-topright: 15px;
+	-webkit-border-top-right-radius: 15px;
+	text-align: center;
+}
+
+.footer {
+	background-color: #000;
+	border-radius: 10px;
+}
+
+.fuente-pie {
+	font: normal 15px sans-serif;
+	color: #FFFFFF;
+	padding-top: 10px;
+}
