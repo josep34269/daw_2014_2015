@@ -15,8 +15,7 @@
 						<td class='panel1'>Football Coach/Manager es una web de gestión deportiva para equipos de futbol americano:<br /><br />
 						- Gestión de nuestro perfil de usuario.<br />
 						- Gestión de nuestro equipo (datos y partidos).<br />
-						- Gestión de los jugadores (alta, modificación y baja) del equipo.<br />
-						- Estadisticas por equipo/jugador (puntos, faltas...).</td>
+						- Gestión de los jugadores (alta, modificación y baja) del equipo.</td>
 					</tr>";
 						
 	$contenido.="</table>"; // Cerramos la tabla

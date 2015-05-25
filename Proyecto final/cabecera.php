@@ -71,7 +71,7 @@ class cabecera extends elemento{
 			
 			if(!isset($_SESSION["usuario"])){
 				// Formulario de inicio de sesión
-				$str.="<div style='position: absolute; top: 55px; left: 10px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.85; padding: 5px;'>
+				$str.="<div style='position: absolute; top: 55px; left: 10px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.80; padding: 5px;'>
 					<form id='iniSes' method='post' name='iniSes' action='iniciar.php'>
 						<input id='usuario' type='text' name='usuario' class='input' title='Usuario' />
 						<input id='clave' type='password' name='clave' class='input' title='Contraseña' />
@@ -79,7 +79,7 @@ class cabecera extends elemento{
 					</form>
 				</div>";
 			}else{
-				$str.="<div style='position: absolute; top: 55px; left: 30px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.85; padding: 5px;'>Bienvenido ".$_SESSION["usuario"].". <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
+				$str.="<div style='position: absolute; top: 55px; left: 30px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.80; padding: 5px;'>Bienvenido ".$_SESSION["usuario"].". <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
 			}		
 		}
 				
