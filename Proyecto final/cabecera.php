@@ -24,17 +24,17 @@ class cabecera extends elemento{
 		$str="<center>"; // Alineamos el contenido al centro
 		
 		// Título de la web
-		$str.="<div style='position: absolute; top: -5px; left: 25%;'>
+		$str.="<div style='position: absolute; top: 50px; right: 0; left: 0; margin-left: auto; margin-right: auto;'>
 				<img style='width: 900px; height: 85px;' src='img/fondo-titulo.png' />
 			</div>
-			<div style='position: absolute; left: 35%; top: 15px;' class='fuente-titulo'>
+			<div style='position: absolute; top: 65px; right: 0; left: 0; margin-left: auto; margin-right: auto;' class='fuente-titulo'>
 				<h1 style='text-align: center;' class='titulo-pag'>
 					<a href='index.php'>FOOTBALL <span style='color: #0CF'>​COACH</span>/<span style='color: #F03;'>MANAGER</span></a>
 				</h1>
 			</div>";
 			
 		// Creamos un contenedor para el menú
-		$str.="<div style='position: absolute; top: 150px; left:38%; height: 35px; display: inline-block; text-align: left; overflow: visible;' class='contenedor-menu'>";
+		$str.="<div style='position: absolute; top: 0; height: 55px; display: inline-block; overflow: visible; right: 0; left: 0; margin-left: auto; margin-right: auto;' class='contenedor-menu'>";
 					
 		$pagURL=end(explode("/",$_SERVER["PHP_SELF"])); // Obtenemos la página actual
 		
@@ -46,9 +46,9 @@ class cabecera extends elemento{
 		
 		// Mostramos el menú
 		foreach($menu as $indice=>$valor){
-			$str.="<a style='width: 100px; height: 35px; bottom: 20px;' href='".$valor["url"]."' class='menu-boton'>
+			$str.="<a style='width: 100px; height: 55px; bottom: 5px;' href='".$valor["url"]."' class='menu-boton'>
 					<div class='menu-boton-forma'></div>
-					<div style='text-align:center;'>
+					<div style='right: 0; left: 0; margin-left: auto; margin-right: auto; text-align:center;'>
 						<p style='line-height: 35px; text-align: center;' class='menu-label'>".$indice."</p>
 					</div>
 				</a>";
@@ -65,21 +65,21 @@ class cabecera extends elemento{
 		// Comprobamos si tiene un valor la cookie
 		if(isset($_COOKIE["tiempoEspera"])){
 			
-			$str.="Debes esperar 2 minutos antes de volver a iniciar sesión<br />";
+			$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Debes esperar 2 minutos antes de volver a iniciar sesión</div>";
 			
 		}else{
 			
 			if(!isset($_SESSION["usuario"])){
 				// Formulario de inicio de sesión
-				$str.="<div style='position: absolute; top: 55px; left: 10px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.80; padding: 5px;'>
+				$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px;'>
 					<form id='iniSes' method='post' name='iniSes' action='iniciar.php'>
-						<input id='usuario' type='text' name='usuario' class='input' title='Usuario' />
-						<input id='clave' type='password' name='clave' class='input' title='Contraseña' />
+						<input id='usuario' type='text' name='usuario' class='input' placeholder='Usuario' />
+						<input id='clave' type='password' name='clave' class='input' placeholder='Contraseña' />
 						<input id='iniciar' type='submit' name='iniciar' class='button' value='Iniciar sesión' />
 					</form>
 				</div>";
 			}else{
-				$str.="<div style='position: absolute; top: 55px; left: 30px; border: 2px solid #FFF; background-color: #FFF; opacity: 0.80; padding: 5px;'>Bienvenido ".$_SESSION["usuario"].". <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
+				$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Bienvenido ".$_SESSION["usuario"]." <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
 			}		
 		}
 				
