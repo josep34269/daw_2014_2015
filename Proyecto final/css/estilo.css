@@ -47,7 +47,7 @@ table {
 	overflow: hidden;
 	background: #000 url(../img/fondo-boton.png) center repeat-x;
 	border-radius: 5px 5px 0 0;
-	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+	box-shadow: 0 1px 4px #000006;
 	margin-bottom: 10px;
 }
 
@@ -57,7 +57,7 @@ table {
 	box-sizing: border-box;
 	display: inline-block;
 	cursor: pointer;
-	border-left: 1px solid rgba(51, 51, 51, 1);
+	border-left: 1px solid #333301;
 	background: #000;
 }
 

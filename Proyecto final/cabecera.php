@@ -34,7 +34,8 @@ class cabecera extends elemento{
 			</div>";
 			
 		// Creamos un contenedor para el menú
-		$str.="<div style='position: absolute; top: 0; height: 55px; display: inline-block; overflow: visible; right: 0; left: 0; margin-left: auto; margin-right: auto;' class='contenedor-menu'>";
+		$str.="<div style='position: absolute; top: 0; height: 55px; display: inline-block; overflow: visible; left: 0; width: 100%; background-color: #000006;'>
+			<div style='position: absolute; top: 0; height: 55px; display: inline-block; overflow: visible; left: 0;' class='contenedor-menu'>";
 					
 		$pagURL=end(explode("/",$_SERVER["PHP_SELF"])); // Obtenemos la página actual
 		
@@ -55,7 +56,8 @@ class cabecera extends elemento{
 		}
 		
 		// Cerramos el menú
-		$str.="</div>";
+		$str.="</div>
+			</div>";
 		
 		// Si no está iniciada la sesión, la inicio
 		if(!isset($_SESSION)){
@@ -65,13 +67,13 @@ class cabecera extends elemento{
 		// Comprobamos si tiene un valor la cookie
 		if(isset($_COOKIE["tiempoEspera"])){
 			
-			$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Debes esperar 2 minutos antes de volver a iniciar sesión</div>";
+			$str.="<div style='position: absolute; top: 10px; right: 5px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Debes esperar 2 minutos antes de volver a iniciar sesión</div>";
 			
 		}else{
 			
 			if(!isset($_SESSION["usuario"])){
 				// Formulario de inicio de sesión
-				$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px;'>
+				$str.="<div style='position: absolute; top: 5px; right: 5px; margin-right: 0; opacity: 0.80; padding: 5px;'>
 					<form id='iniSes' method='post' name='iniSes' action='iniciar.php'>
 						<input id='usuario' type='text' name='usuario' class='input' placeholder='Usuario' />
 						<input id='clave' type='password' name='clave' class='input' placeholder='Contraseña' />
@@ -79,7 +81,7 @@ class cabecera extends elemento{
 					</form>
 				</div>";
 			}else{
-				$str.="<div style='position: absolute; top: 5px; right: 10px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Bienvenido ".$_SESSION["usuario"]." <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
+				$str.="<div style='position: absolute; top: 5px; right: 5px; margin-right: 0; opacity: 0.80; padding: 5px; color:#FFF;'>Bienvenido ".$_SESSION["usuario"]." <input id='salir' type='button' name='salir' class='button' value='Salir' onclick='location.href=\"salir.php\";' /></div>"; // Formulario de cierre de sesión
 			}		
 		}
 				
