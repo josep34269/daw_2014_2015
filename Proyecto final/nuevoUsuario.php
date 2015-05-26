@@ -52,7 +52,7 @@
 			}
 		}
 		
-		header('Location: index.php'); // Realizamos una redirección
+		header("Location: index.php"); // Realizamos una redirección
 	}else{
 		// Iniciamos la tabla
 		$contenido="<table align='center' cellpadding='5'>

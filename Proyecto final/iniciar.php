@@ -28,7 +28,7 @@ if(isset($usuario) && isset($clave) && $sentencia[0][0]>0){
 	
 	$_SESSION["usuario"]=$usuario; // Asigno una variable a esta sesión
 	
-	if(isset($_SERVER["HTTP_REFERER"]) && end(explode("/",$_SERVER["HTTP_REFERER"]))!="error.php"){
+	if(isset($_SERVER["HTTP_REFERER"]) && (end(explode("/",$_SERVER["HTTP_REFERER"]))!="error.php" && end(explode("/",$_SERVER["HTTP_REFERER"]))!="registrar.php")){
 		header("Location: ".$_SERVER['HTTP_REFERER'].""); // Realizo una redirección
 	}else{
 		header("Location: index.php"); // Realizamos una redirección
