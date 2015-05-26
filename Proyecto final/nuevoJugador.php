@@ -53,7 +53,7 @@
 			$pagina->funcionesDB("INSERT", "Jugadores", $campos, $valores, ""); // Actualizamos los datos
 		}
 		
-		//header('Location: jugadores.php?pag=1'); // Realizamos una redirección
+		header('Location: jugadores.php?pag=1'); // Realizamos una redirección
 	}else{
 		// Iniciamos la tabla
 		$contenido="<table align='center' cellpadding='5'>
