@@ -26,7 +26,7 @@
     							<td colspan='100%' class='bor-titulo'><span class='titulo'>MODIFICAR PARTIDO</span></td>
     						</tr>";
 							
-		$sentenciaLugares=$pagina->funcionesDB("SELECT", "Partidos", array("lugar"), array(), "id_partido=id_partido GROUP BY lugar ORDER BY lugar"); // Obtenemos los lugares del partido
+		$sentenciaLugares=$pagina->funcionesDB("SELECT", "Partidos", array("lugar"), array(), "id_partido=".$_GET["id"]." GROUP BY lugar ORDER BY lugar"); // Obtenemos los lugares del partido
 		
 		// Mostramos todo el contenido obtenido de la sentenciaPartido de tipos
 		$contenido.="		<tr>
