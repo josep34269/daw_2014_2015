@@ -42,7 +42,7 @@ class pagina{
 		$this->seguridad=new seguridad();
 		
 		// Si no se ha iniciado sesión no mostramos el contenido
-		if(!$this->seguridad->comprobarUsuario() && (end(explode("/",$_SERVER["PHP_SELF"]))!="error.php" && end(explode("/",$_SERVER["PHP_SELF"]))!="altaUsuario.php" && end(explode("/",$_SERVER["PHP_SELF"]))!=$this->menu["INICIO"]["url"] && end(explode("/",$_SERVER["PHP_SELF"]))!=$this->menu["REGISTRO"]["url"])){
+		if(!$this->seguridad->comprobarUsuario() && (end(explode("/",$_SERVER["PHP_SELF"]))!="error.php" && end(explode("/",$_SERVER["PHP_SELF"]))!="nuevoUsuario.php" && end(explode("/",$_SERVER["PHP_SELF"]))!=$this->menu["INICIO"]["url"] && end(explode("/",$_SERVER["PHP_SELF"]))!=$this->menu["REGISTRO"]["url"])){
 			// Iniciamos la tabla
 			$texto="<table align='center' cellpadding='5'>
 						<tr>
